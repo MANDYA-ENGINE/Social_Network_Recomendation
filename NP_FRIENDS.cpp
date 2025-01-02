@@ -160,7 +160,7 @@ void menu() {
         cout << "2. Add Friendship\n";
         cout << "3. Display Friends\n";
         cout << "4. Recommend Friends\n";
-        cout << "5. Exit\n";
+        cout << "5. Clear data\n";
         cout << "6. Exit\n";
         cout << "Choose an option: ";
         cin >> choice;
